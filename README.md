@@ -1,11 +1,15 @@
-<h1 align="center"><img src="https://passky.org/images/logo.png"></h1>
+<h1 align="center">
+  <img src="https://passky.org/images/logo.png" alt="Logo" width="400" height="400">
+</h1>
 
-# Aplikasi Web "XYZ"
+# Aplikasi Web "Passky"
 
 
 ## Sekilas Tentang
 
-Deskripsi singkat tentang aplikasi tsb.
+**Passky** adalah _password manager_ open-source yang sederhana, modern, ringan, dan aman. Aplikasi ini menggunakan arsitektur _zero trust_ dengan metode enkripsi canggih, seperti `XChaCha20` untuk mengamankan data sensitif dan `Argon2id` untuk hashing kata sandi master, yang dirancang untuk tahan terhadap serangan **brute-force.** Passky memungkinkan pengguna untuk menyimpan hingga 100 kata sandi secara gratis, dengan opsi upgrade ke paket premium untuk menyimpan jumlah kata sandi tak terbatas.
+
+Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser, aplikasi desktop, dan aplikasi Android, memberikan fleksibilitas dalam mengelola kata sandi di berbagai perangkat
 
 
 ## Instalasi
