@@ -17,7 +17,10 @@ Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser
 - Prasyarat, apa saja yang harus diinstal sebelumnya.
 - Langkah instalasi dalam CLI.
 - Ini masih kasarnya bentarrr gua masih nyoba nyoba
-  
+
+#### Kebutuhan Sistem:
+
+#### Proses Instalasi:
 1. Langkah pertama, jalankan perintah berikut untuk menginstal Docker dan Docker Compose di VPS :
    
      ```bash
