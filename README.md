@@ -35,6 +35,8 @@ Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser
    $ ./installerGUI.sh
 
 5. Jalankan Docker untuk memulai proses.
+   ```bash
+   $ sudo docker-compose up -d
 
 ## Konfigurasi (opsional)
 
