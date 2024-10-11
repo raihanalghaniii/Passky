@@ -25,11 +25,11 @@ Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser
    
      ```bash
      # Install docker
-     curl -sSL https://get.docker.com/ | CHANNEL=stable bash
+     $ curl -sSL https://get.docker.com/ | CHANNEL=stable bash
      # Start dan aktifkan Docker agar berjalan otomatis saat boot
-     sudo systemctl enable --now docker
+     $ sudo systemctl enable --now docker
      # Install docker compose
-     sudo apt install docker-compose -y
+     $ sudo apt install docker-compose -y
 
 2. Login ke VPS menggunakan SSH dengan perintah berikut:
    
