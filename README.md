@@ -17,41 +17,43 @@ Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser
 - Prasyarat, apa saja yang harus diinstal sebelumnya.
 - Langkah instalasi dalam CLI.
 - Ini masih kasarnya bentarrr gua masih nyoba nyoba
-
-  ```bash
-  # Install docker
-  curl -sSL https://get.docker.com/ | CHANNEL=stable bash
-  # Start docker on boot
-  sudo systemctl enable --now docker
-  # Install docker compose
-  sudo apt install docker-compose -y
   
-1. Login ke VPS menggunakan SSH dengan perintah berikut:
+1. Langkah pertama, jalankan perintah berikut untuk menginstal Docker dan Docker Compose di VPS :
+   
+     ```bash
+     # Install docker
+     curl -sSL https://get.docker.com/ | CHANNEL=stable bash
+     # Start dan aktifkan Docker agar berjalan otomatis saat boot
+     sudo systemctl enable --now docker
+     # Install docker compose
+     sudo apt install docker-compose -y
+
+2. Login ke VPS menggunakan SSH dengan perintah berikut:
    
    ```bash
    $ ssh root@160.19.166.139
 
-2. Setelah berhasil login ke server, clone repository Passky Server:
+3. Setelah berhasil login ke server, clone repository Passky Server:
    
    ```bash
    $ git clone https://github.com/Rabbit-Company/Passky-Server.git 
 
-3. Masuk ke direktori tempat repository Passky Server di-clone:
+4. Masuk ke direktori tempat repository Passky Server di-clone:
    
    ```bash
    $ cd Passky-Server
 
-4. Jika file environment belum tersedia, jalankan installerGUI.sh untuk membuat file environment:
+5. Jika file environment belum tersedia, jalankan installerGUI.sh untuk membuat file environment:
    
    ```bash
    $ ./installerGUI.sh
 
-5. Setelah semua konfigurasi selesai, jalankan Docker Compose untuk memulai server:
+7. Setelah semua konfigurasi selesai, jalankan Docker Compose untuk memulai server:
     
    ```bash
    $ sudo docker-compose up -d
 
-6. 
+8. 
 
 ## Konfigurasi (opsional)
 
