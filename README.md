@@ -17,6 +17,14 @@ Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser
 - Prasyarat, apa saja yang harus diinstal sebelumnya.
 - Langkah instalasi dalam CLI.
 - Ini masih kasarnya bentarrr gua masih nyoba nyoba
+
+  ```bash
+  # Install docker
+  curl -sSL https://get.docker.com/ | CHANNEL=stable bash
+  # Start docker on boot
+  sudo systemctl enable --now docker
+  # Install docker compose
+  sudo apt install docker-compose -y
   
 1. Gunakan VPS, lalu login menggunakan SSH. Pastikan Docker sudah terinstall sebelumnya.
    ```bash
@@ -37,6 +45,8 @@ Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser
 5. Jalankan Docker untuk memulai proses.
    ```bash
    $ sudo docker-compose up -d
+
+6. 
 
 ## Konfigurasi (opsional)
 
