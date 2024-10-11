@@ -105,10 +105,12 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - Mengimplementasikan enkripsi `XChaCha20` dan _hashing_ `Argon2id`, yang menawarkan perlindungan tinggi terhadap serangan seperti **brute-force.**
 - Mendukung berbagai platform, seperti web, desktop, aplikasi Android, dan ekstensi browser, yang memudahkan akses di berbagai perangkat.
 - Menawarkan paket gratis yang memungkinkan pengguna menyimpan hingga 100 kata sandi, dengan opsi upgrade ke premium untuk fitur yang lebih banyak.
+
 Namun, aplikasi ini tetap memiliki beberapa kekurangan seperti:
 - Fitur premium tidak sebanyak aplikasi lain seperti _Dashlane_ atau _LastPass_, yang memiliki fitur tambahan seperti pelacakan _dark web_ atau VPN.
 - Proses instalasi di server atau Docker bisa cukup kompleks bagi pengguna awam, terutama bagi mereka yang belum terbiasa dengan pengelolaan _hosting._
 - Penggunaan Redis dan pengaturan cron mungkin memerlukan pemahaman teknis yang lebih mendalam.
+
 Jika dibandingkan dengan aplikasi sejenis seperti **dashlane,** terdapat beberapa kelebihan maupun kekurangan yang dapat kita bandingkan, di antaranya:
 - Dashlane memiliki antarmuka modern dan intuitif yang mendukung pelengkapan otomatis untuk kata sandi dan form, sedangkan Passky memiliki desain yang lebih sederhana dan berfokus pada fungsi dasar tanpa fitur visual canggih atau pelengkapan otomatis.
 - Dashlane menawarkan berbagai fitur tambahan seperti VPN bawaan, pelacakan dark web, dan laporan kesehatan kata sandi, sedangkan Passky lebih minimalis dan hanya menawarkan fitur manajemen kata sandi dengan keamanan tinggi.
@@ -117,4 +119,5 @@ Jika dibandingkan dengan aplikasi sejenis seperti **dashlane,** terdapat beberap
 
 ## Referensi
 
-Cantumkan tiap sumber informasi yang anda pakai.
+1. [About Passky](https://github.com/Rabbit-Company/Passky-Server) - Passky
+2. 
