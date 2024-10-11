@@ -56,7 +56,7 @@ Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser
    ```bash
    $ sudo docker-compose up -d
 
-8. 
+8. lanjut bsk maaf ngantuk berat
 
 ## Konfigurasi (opsional)
 
