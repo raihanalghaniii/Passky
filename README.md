@@ -18,6 +18,12 @@ Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser
 - Langkah instalasi dalam CLI.
 - Ini masih kasarnya bentarrr gua masih nyoba nyoba
 
+Passky Server dapat dengan mudah diinstal dengan berbagai cara.
+- Docker (Recommended)
+- Linode (One-click Install)
+- Umbrel (One-click Install)
+- Shared Hosting
+
 #### Kebutuhan Sistem:
 
 #### Proses Instalasi:
