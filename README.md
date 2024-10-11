@@ -27,8 +27,12 @@ Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser
    $ git clone https://github.com/Rabbit-Company/Passky-Server.git 
 
 3. Pindah direktori ke folder Passky Server.
+   ```bash
+   $ cd Passky-Server
 
 4. Jika file environment belum ada, jalankan installerGUI.sh untuk membuat file environment.
+   ```bash
+   $ ./installerGUI.sh
 
 5. Jalankan Docker untuk memulai proses.
 
