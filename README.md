@@ -16,7 +16,21 @@ Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser
 
 - Prasyarat, apa saja yang harus diinstal sebelumnya.
 - Langkah instalasi dalam CLI.
+- Ini masih kasarnya bentar gua masih nyoba nyoba
+  
+1. Gunakan VPS, lalu login menggunakan SSH. Pastikan Docker sudah terinstall sebelumnya.
+   ```bash
+   $ ssh root@160.19.166.139
 
+2. Clone repository dari Passky Server.
+   ```bash
+   $ git clone https://github.com/Rabbit-Company/Passky-Server.git 
+
+3. Pindah direktori ke folder Passky Server.
+
+4. Jika file environment belum ada, jalankan installerGUI.sh untuk membuat file environment.
+
+5. Jalankan Docker untuk memulai proses.
 
 ## Konfigurasi (opsional)
 
