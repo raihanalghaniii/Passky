@@ -16,7 +16,7 @@ Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser
 
 - Prasyarat, apa saja yang harus diinstal sebelumnya.
 - Langkah instalasi dalam CLI.
-- Ini masih kasarnya bentar gua masih nyoba nyoba
+- Ini masih kasarnya bentarrr gua masih nyoba nyoba
   
 1. Gunakan VPS, lalu login menggunakan SSH. Pastikan Docker sudah terinstall sebelumnya.
    ```bash
