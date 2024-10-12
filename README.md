@@ -96,7 +96,7 @@ Passky Server dapat dengan mudah diinstal dengan berbagai cara.
    ```bash
    $ sudo docker-compose up -d
    
-9. Kunjungi alamat IP server pada browser untuk mengakses Passky Admin Panel:
+9. Kunjungi alamat IP server diikuti oleh nomor port pada browser untuk mengakses Passky Admin Panel:
    
    ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky13.png?raw=true) 
    
