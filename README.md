@@ -57,13 +57,49 @@ Passky Server dapat dengan mudah diinstal dengan berbagai cara.
    ```bash
    $ ./installerGUI.sh
 
-7. Setelah semua konfigurasi selesai, jalankan Docker Compose untuk memulai server:
-    
+6. Ikuti petunjuk instalasi:
+   - Pilih Yes untuk melanjutkan proses pembuatan file .env baru. File .env sebelumnya akan dihapus dan yang baru akan dibuat berdasarkan jawaban yang Anda berikan selama instalasi.
+     
+     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky1.png?raw=true)
+   - Masukkan username yang akan Anda gunakan untuk mengelola Passky Admin Panel.yang Anda berikan selama instalasi. Misalnya: admin128.
+     
+     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky2.png?raw=true)
+   - Masukkan password untuk akun admin yang Anda buat pada langkah sebelumnya.
+     
+     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky3.png?raw=true)
+   - Pilih lokasi server yang sesuai dengan tempat Anda ingin menempatkan server Passky.
+     
+     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky4.png?raw=true)
+   - Masukkan jumlah maksimal akun yang dapat dibuat di server Passky ini. Jika Anda menginginkan jumlah akun tanpa batas, masukkan -1.
+     
+     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky6.png?raw=true)
+   - Masukkan jumlah maksimal password yang bisa disimpan oleh akun premium. Jika Anda ingin membebaskan jumlah password untuk akun premium, gunakan -1.
+     
+     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky7.png?raw=true)
+   - Masukkan tipe database yang ingin digunakan. Jika memilih SQLite, Passky akan menggunakan database berbasis file yang lebih sederhana.
+     
+     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky8.png?raw=true)
+   - Masukkan nama file untuk database jika Anda memilih SQLite sebagai database engine. Jika Anda memilih MySQL, Anda mungkin perlu memberikan nama database MySQL.
+     
+     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky9.png?raw=true)
+   - Pilih apakah Anda ingin mengaktifkan SMTP Email untuk mengirimkan email dari server. Jika Anda tidak membutuhkan fitur ini, pilih No.
+     
+     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky10.png?raw=true)
+   - Pilih apakah Anda ingin mengaktifkan API Call Limiter untuk membatasi jumlah panggilan API per perangkat. Jika server ini akan diakses melalui internet, lebih baik mengaktifkan fitur ini untuk keamanan. Pilih Yes jika ingin mengaktifkannya.
+     
+     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky11.png?raw=true)
+   - Setelah konfigurasi selesai, Passky Installer akan menampilkan pesan bahwa file .env telah berhasil dibuat.
+     
+     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky12.png?raw=true)
+     
+7. Setelah konfigurasi selesai, jalankan server dengan Docker
    ```bash
    $ sudo docker-compose up -d
-
-8. lanjut bsk maaf ngantuk berat.. okeh baiklh
-
+   
+8. Kunjungi alamat IP web server kita.
+   
+   ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky13.png?raw=true) 
+   
 ## Konfigurasi (opsional)
 
 Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
@@ -95,6 +131,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
+- WEIT MO AI DULS
 
 
 ## Pembahasan
