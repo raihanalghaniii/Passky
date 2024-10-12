@@ -133,12 +133,41 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 - WEIT MO AI DULS
 
-![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky14.png?raw=true)
-![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky15.png?raw=true)
-![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky16.png?raw=true)
-![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky17.png?raw=true)
-![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky18.png?raw=true)
-![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky19.png?raw=true)
+1. Page Home:
+
+   Merupakan halaman utama yang menampilkan informasi umum tentang Passky Server. Di sini, terdapat panduan dasar mengenai cara menggunakan server, termasuk mengunduh Passky Client dan menghubungkannya ke server.
+   
+   ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky14.png?raw=true)
+   
+3. Page Server:
+
+   Halaman ini menampilkan statistik operasional dari server Passky. Informasi seperti penggunaan sumber daya, uptime server, dan status koneksi ditampilkan untuk memantau kinerja server secara real-time.
+   
+   ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky15.png?raw=true)
+   
+5. Page Accounts:
+
+   Pada halaman ini, terdapat rincian jumlah akun yang telah terdaftar, jumlah akun premium yang aktif, serta berapa banyak password yang tersimpan di dalam server. Ini sangat berguna untuk mengelola kapasitas penyimpanan dan melihat distribusi pengguna premium.
+   
+   ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky16.png?raw=true)
+   
+7. Page Licenses:
+
+   Halaman ini menyediakan fungsi untuk membuat dan mengelola lisensi bagi pengguna premium. Admin dapat mengatur paket lisensi berdasarkan durasi (misalnya, tahunan atau bulanan) dan membatasi jumlah akun yang dapat menggunakan lisensi tersebut. Ini membantu dalam monetisasi layanan jika pengguna premium dikenakan biaya.
+   
+   ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky17.png?raw=true)
+   
+9. Page Health:
+
+   Menyediakan gambaran umum tentang status kesehatan server, seperti CPU usage, memory usage, dan status layanan lainnya. Informasi ini penting untuk memastikan server berjalan stabil dan bebas dari masalah teknis.
+   
+   ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky18.png?raw=true)
+   
+11. Page Settings:
+
+    Halaman ini digunakan untuk pengaturan umum, salah satunya untuk mengubah tema tampilan antarmuka Passky. Pengguna bisa memilih tema yang sesuai dengan preferensi mereka untuk pengalaman penggunaan yang lebih personal.
+    
+   ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky19.png?raw=true)
 
 
 ## Pembahasan
