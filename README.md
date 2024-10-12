@@ -107,11 +107,6 @@ Aplikasi ini tidak menyediakan layanan maintenance.
 
 ## Cara Pemakaian
 
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
-- WEIT MO AI DULS
-
 1. Page Home:
 
    Merupakan halaman utama yang menampilkan informasi umum tentang Passky Server. Di sini, terdapat panduan dasar mengenai cara menggunakan server, termasuk mengunduh Passky Client dan menghubungkannya ke server.
