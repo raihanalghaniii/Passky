@@ -109,7 +109,7 @@ Aplikasi ini tidak menyediakan layanan maintenance.
 
 1. Page Home:
 
-   Setelah melakukan login dengan username dan password, server akan menampilkan Page Home, yang merupakan halaman utama dengan informasi umum tentang Passky Server. Di sini, terdapat panduan dasar mengenai cara menggunakan server, termasuk mengunduh Passky Client dan menghubungkannya ke server.
+   Setelah melakukan log in dengan username dan password, server akan menampilkan Page Home, yang merupakan halaman utama dengan informasi umum tentang Passky Server. Di sini, terdapat panduan dasar mengenai cara menggunakan server, termasuk mengunduh Passky Client dan menghubungkannya ke server.
    
    ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky14.png?raw=true)
    
