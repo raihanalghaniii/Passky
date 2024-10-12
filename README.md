@@ -133,6 +133,13 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 - WEIT MO AI DULS
 
+![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky14.png?raw=true)
+![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky15.png?raw=true)
+![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky16.png?raw=true)
+![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky17.png?raw=true)
+![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky18.png?raw=true)
+![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky19.png?raw=true)
+
 
 ## Pembahasan
 
