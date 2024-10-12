@@ -167,4 +167,5 @@ Jika dibandingkan dengan aplikasi sejenis seperti **dashlane,** terdapat beberap
 ## Referensi
 
 1. [About Passky](https://github.com/Rabbit-Company/Passky-Server) - Passky
-2. 
+2. [About Dashlane](https://www.dashlane.com/) - Dashlane
+3. [Install Passky on Linux](https://snapcraft.io/passky) - Canocical Snapcraft
