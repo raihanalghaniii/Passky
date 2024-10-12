@@ -166,8 +166,8 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 11. Page Settings:
 
     Halaman ini digunakan untuk pengaturan umum, salah satunya untuk mengubah tema tampilan antarmuka Passky. Pengguna bisa memilih tema yang sesuai dengan preferensi mereka untuk pengalaman penggunaan yang lebih personal.
-    
-   ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky19.png?raw=true)
+
+    ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky19.png?raw=true)
 
 
 ## Pembahasan
