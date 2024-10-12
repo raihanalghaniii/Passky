@@ -27,7 +27,12 @@ Passky Server dapat dengan mudah diinstal dengan berbagai cara.
 - Dependencies: Docker, Docker Compose, Git
 
 #### Proses Instalasi:
-1. Langkah pertama, jalankan perintah berikut untuk menginstal Docker dan Docker Compose di VPS :
+1. Langkah pertama, login ke VPS menggunakan SSH dengan perintah berikut:
+   
+   ```bash
+   $ ssh root@160.19.166.139
+   
+2. Kalankan perintah berikut untuk menginstal Docker dan Docker Compose di VPS :
    
      ```bash
      # Install docker
@@ -37,27 +42,22 @@ Passky Server dapat dengan mudah diinstal dengan berbagai cara.
      # Install docker compose
      $ sudo apt install docker-compose -y
 
-2. Login ke VPS menggunakan SSH dengan perintah berikut:
-   
-   ```bash
-   $ ssh root@160.19.166.139
-
-3. Setelah berhasil login ke server, clone repository Passky Server:
+4. Setelah berhasil login ke server, clone repository Passky Server:
    
    ```bash
    $ git clone https://github.com/Rabbit-Company/Passky-Server.git 
 
-4. Masuk ke direktori tempat repository Passky Server di-clone:
+5. Masuk ke direktori tempat repository Passky Server di-clone:
    
    ```bash
    $ cd Passky-Server
 
-5. Jika file environment belum tersedia, jalankan installerGUI.sh untuk membuat file environment:
+6. Jika file environment belum tersedia, jalankan installerGUI.sh untuk membuat file environment:
    
    ```bash
    $ ./installerGUI.sh
 
-6. Ikuti petunjuk instalasi:
+7. Ikuti petunjuk instalasi:
    - Pilih Yes untuk melanjutkan proses pembuatan file .env baru. File .env sebelumnya akan dihapus dan yang baru akan dibuat berdasarkan jawaban yang diberikan selama instalasi.
      
      ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky1.png?raw=true)
@@ -92,11 +92,11 @@ Passky Server dapat dengan mudah diinstal dengan berbagai cara.
      
      ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky12.png?raw=true)
      
-7. Setelah konfigurasi selesai, jalankan server dengan Docker
+8. Setelah konfigurasi selesai, jalankan server dengan Docker
    ```bash
    $ sudo docker-compose up -d
    
-8. Kunjungi alamat IP server pada browser untuk mengakses Passky Admin Panel:
+9. Kunjungi alamat IP server pada browser untuk mengakses Passky Admin Panel:
    
    ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky13.png?raw=true) 
    
