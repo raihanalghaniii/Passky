@@ -32,7 +32,7 @@ Passky Server dapat dengan mudah diinstal dengan berbagai cara.
    ```bash
    $ ssh root@160.19.166.139
    
-2. Kalankan perintah berikut untuk menginstal Docker dan Docker Compose di VPS :
+2. Jalankan perintah berikut untuk menginstal Docker dan Docker Compose di VPS :
    
      ```bash
      # Install docker
