@@ -92,7 +92,7 @@ Passky Server dapat dengan mudah diinstal dengan berbagai cara.
      
      ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky12.png?raw=true)
      
-8. Setelah konfigurasi selesai, jalankan server dengan Docker
+8. Setelah konfigurasi selesai, jalankan server dengan Docker:
    ```bash
    $ sudo docker-compose up -d
    
