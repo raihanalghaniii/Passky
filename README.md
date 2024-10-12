@@ -69,7 +69,7 @@ Passky Server dapat dengan mudah diinstal dengan berbagai cara.
      ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky3.png?raw=true)
    - Pilih lokasi server yang sesuai dengan tempat Anda ingin menempatkan server Passky.
      
-     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky4.png?raw=true)
+     ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky5.png?raw=true)
    - Masukkan jumlah maksimal akun yang dapat dibuat di server Passky ini. Jika Anda menginginkan jumlah akun tanpa batas, masukkan -1.
      
      ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky6.png?raw=true)
