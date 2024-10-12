@@ -14,10 +14,6 @@ Passky juga mendukung berbagai platform, termasuk aplikasi web, ekstensi browser
 
 ## Instalasi
 
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
-- Langkah instalasi dalam CLI.
-- Ini masih kasarnya bentarrr gua masih nyoba nyoba
-
 Passky Server dapat dengan mudah diinstal dengan berbagai cara.
 - Docker (Recommended)
 - Linode (One-click Install)
@@ -25,6 +21,10 @@ Passky Server dapat dengan mudah diinstal dengan berbagai cara.
 - Shared Hosting
 
 #### Kebutuhan Sistem:
+- OS: Linux (Ubuntu 20.04 atau lebih baru)
+- RAM: Minimal 1 GB
+- Storage: Minimal 10 GB ruang kosong
+- Dependencies: Docker, Docker Compose, Git
 
 #### Proses Instalasi:
 1. Langkah pertama, jalankan perintah berikut untuk menginstal Docker dan Docker Compose di VPS :
@@ -96,7 +96,7 @@ Passky Server dapat dengan mudah diinstal dengan berbagai cara.
    ```bash
    $ sudo docker-compose up -d
    
-8. Kunjungi alamat IP web server kita.
+8. Kunjungi alamat IP server pada browser untuk mengakses Passky Admin Panel:
    
    ![alt text](https://github.com/raihanalghaniii/Passky/blob/main/Screenshots/passky13.png?raw=true) 
    
